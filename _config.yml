@@ -9,7 +9,7 @@ description: |
   
 owner: Fresh Start Residential
 first_published: 2020 # if migrating another site, the year of your first publish
-email: nick@freshstart.works
+email: info@freshstart.works
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://freshstart.works" # the base hostname & protocol for your site
 social:
